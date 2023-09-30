@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 # Hi, I'm Victor!
-<div style="text-align: right;">
-  <img src="https://www.kouidri.fr/Projets/E-portfolio/medias/images/Logo/inp-n7.png" alt="Logo INP N7">
-</div>
 
 
-
-I'm a computer science student at [ENSEEIHT](https://www.enseeiht.fr/), a French engineering school specializing in aerospace and computer science. I'm passionate about the fields of theoretical computer science and space.
+I'm a computer science student at [![ENSEEIHT Logo](https://www.enseeiht.fr/content/themes/enseeiht/images/logo.png)](https://www.enseeiht.fr/), a French engineering school specializing in aerospace and computer science. I'm passionate about the fields of theoretical computer science and space.
 
 ## What You'll Find in My GitHub Profile
 
