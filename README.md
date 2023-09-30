@@ -1,9 +1,5 @@
 ### Hi, I'm Victor! 👋
 
-.container {
-    width: 90% !important;
-}
-
 I'm a computer science student at [<img src="https://www.tvn7.fr/bundles/tvn7site/images/confiance/ENSEEIHT_logo.png?5.2.0" alt="ENSEEIHT Logo" width="60" height="40">](https://www.enseeiht.fr/), a French engineering school specializing in aerospace and computer science. I'm passionate about the fields of theoretical computer science and space.
 
 ## What You'll Find in My GitHub Profile
