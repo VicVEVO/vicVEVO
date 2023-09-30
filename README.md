@@ -5,7 +5,7 @@ I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/ensee
 > [!NOTE]
 > Account in development.
 
-# My projects
+# My old projects
 
 ## [🔧 Optimization of parking lot topology *(2022)*](https://github.com/VicVEVO/Optimization-of-parking-lot-topology)
 
