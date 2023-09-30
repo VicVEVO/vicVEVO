@@ -14,6 +14,14 @@ Feel free to reach out to me if you have project ideas or else. You can find me 
 
 Thanks for visiting my GitHub profile!
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 
 
 <!--
