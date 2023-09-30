@@ -5,18 +5,14 @@ I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/ensee
 > [!NOTE]
 > Account in development.
 
-# Projects
-<!--
-**VicVEVO/vicVEVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My projects
 
-Here are some ideas to get you started:
+## [🔧 Optimization of parking lot topology *(2022)*](https://github.com/VicVEVO/Optimization-of-parking-lot-topology)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Genetic algorithm determining the ideal configuration of a parking lot's road and spaces according to a given size, entrances, exits and other conditions.
+
+<p align="center">
+	<a href="https://github.com/VicVEVO/Optimization-of-parking-lot-topology"><img src="https://github.com/VicVEVO/Optimization-of-parking-lot-topology/blob/main/resources/descendants.png" width="700"></a>
+</p>
+
+<br>
