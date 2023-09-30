@@ -17,7 +17,7 @@ Genetic algorithm determining the ideal configuration of a parking lot's road an
 
 <br>
 
-## [👩🏻‍🚀 Simulating heat transfer in an astronaut's suit *(2022)*](https://github.com/VicVEVO/Spacesuit-Modeling)
+## [👩🏻‍🚀 Simulating heat transfer in an astronaut's suit *(2021)*](https://github.com/VicVEVO/Spacesuit-Modeling)
 
 2D modeling of temperature change in an astronaut's suit to determine the most effective combination of materials composing it.
 
