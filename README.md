@@ -1,4 +1,4 @@
-### Hi, I'm Victor! 👾
+### Hi, I'm Victor! ☄️
 
 I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/enseeiht-new/resources/img/favicon.ico" alt="ENSEEIHT Logo" width="20" height="20">](https://www.enseeiht.fr/), a French engineering school specializing in aerospace and computer science. I'm passionate about the fields of theoretical computer science and space.
 
