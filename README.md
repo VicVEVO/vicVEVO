@@ -5,7 +5,7 @@ I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/ensee
 > [!NOTE]
 > Account in development.
 
-## Projects
+# Projects
 <!--
 **VicVEVO/vicVEVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
