@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Hi, I'm [Your Name]
-![ENSEEIHT Logo](https://www.yannfernandez.com/wp-content/uploads/2018/06/logo-enseeiht.png)
+![ENSEEIHT Logo](https://www.kouidri.fr/Projets/E-portfolio/medias/images/Logo/inp-n7.png)
 
 I'm a computer science student at [ENSEEIHT](https://www.enseeiht.fr/), a renowned engineering school in France specializing in aerospace and computer science. I'm passionate about the fields of theoretical computer science and aerospace, and I'm constantly seeking to deepen my knowledge in these fascinating areas.
 
