@@ -9,6 +9,8 @@ I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/ensee
 
 ## [🚀 Embedded system development of experimental rockets *(2023)*](https://github.com/aggaillet/ASTRELaunch)
 
+Flight computer development for an experimental rocket with an optical gyroscope. 
+
 ## [🔧 Optimization of parking lot topology *(2022)*](https://github.com/VicVEVO/Optimization-of-parking-lot-topology)
 
 Genetic algorithm determining the ideal configuration of a parking lot's road and spaces according to a given size, entrances, exits and other conditions.
