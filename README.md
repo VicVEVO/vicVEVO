@@ -5,7 +5,9 @@ I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/ensee
 > [!NOTE]
 > Account in development.
 
-# My old projects
+# My past projects
+
+## [🚀 Embedded system development of experimental rockets *(2023)*](https://github.com/aggaillet/ASTRELaunch)
 
 ## [🔧 Optimization of parking lot topology *(2022)*](https://github.com/VicVEVO/Optimization-of-parking-lot-topology)
 
