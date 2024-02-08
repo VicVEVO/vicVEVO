@@ -2,10 +2,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐕𝐢𝐜𝐭𝐨𝐫 ! </h2>
 </div>
 
-<img src="https://github.com/VicVEVO/Spacesuit-Modeling/blob/f9e1507c798431e43240024aeab049b7e35da983/resources/rocket.gif" width="300">
-
-I'm a computer science student at [<img src="https://www.enseeiht.fr/skins/enseeiht-new/resources/img/favicon.ico" alt="ENSEEIHT Logo" width="20" height="20">](https://www.enseeiht.fr/), a French polytechnic engineering school. I'm passionate about the fields of theoretical computer science and space.
-
 > [!NOTE]
 > Account under development.
 
