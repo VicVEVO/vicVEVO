@@ -1,6 +1,4 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐕𝐢𝐜𝐭𝐨𝐫 ! </h2>
-</div>
+<img src="https://github.com/VicVEVO/Earth-Mesher/blob/84c940bcb93f49709c45be883c4733c0265e787e/banner2.gif" width="1000"></h2>
 
 > [!NOTE]
 > Account under development.
