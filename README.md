@@ -1,9 +1,6 @@
 <img src="https://github.com/VicVEVO/Optimization-of-parking-lot-topology/blob/8f398d1a50198730cef534e011fac2eb00191f11/resources/test.webp" width="1000"></h2>
 
-> [!NOTE]
-> Account under development.
-
-# My past projects
+# >> My past projects
 
 ## [🚀 Embedded system development of experimental rockets *(2023)*](https://github.com/aggaillet/ASTRELaunch)
 
