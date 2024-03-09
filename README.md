@@ -4,7 +4,9 @@
 
 ## [🌎 Earth Mesher *(2024)*](https://github.com/VicVEVO/Earth-Mesher)
 Using satellite data, create a comprehensive 3D visualization of Earth's measured characteristics.
-** the picture will come soon **
+<p align="center">
+	<a href="https://github.com/VicVEVO/Earth-Mesher"><img src="https://github.com/VicVEVO/Earth-Mesher/blob/9abcbf01e9e25c79798cbd8035fbf48c76ccb8eb/resources/earth.png" width="700"></a>
+</p>
 
 ## [🚀 Embedded system development of experimental rockets *(2023-2024)*](https://github.com/aggaillet/ASTRELaunch)
 
