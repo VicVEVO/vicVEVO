@@ -12,7 +12,7 @@ Using satellite data, create a comprehensive 3D visualization of Earth's measure
 
 Flight computer development for an experimental rocket with an optical gyroscope. 
 <p align="center">
-	<a href="https://github.com/VicVEVO/Optimization-of-parking-lot-topology"><img src="https://github.com/VicVEVO/Optimization-of-parking-lot-topology/blob/main/resources/rocket.png" width="700"></a>
+	<a href="https://github.com/aggaillet/ASTRELaunch"><img src="https://github.com/VicVEVO/Optimization-of-parking-lot-topology/blob/main/resources/rocket.png" width="700"></a>
 </p>
 
 ## [🔧 Optimization of parking lot topology *(2022-2023)*](https://github.com/VicVEVO/Optimization-of-parking-lot-topology)
