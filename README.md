@@ -2,7 +2,7 @@
 
 # My past projects
 
-## [🌌 Cosmological Redshift Space Distortion *(2025)*](https://github.com/VicVEVO/Earth-Mesher)
+## [🌌 Cosmological Redshift Space Distortion *(2025)*](https://github.com/VicVEVO/Cosmo-RSD)
 A python library to study cosmological constraints within the framework of a modified gravity model.
 <p align="center">
 	<a href="https://github.com/VicVEVO/Cosmo-RSD"><img src="https://github.com/VicVEVO/Cosmo-RSD/blob/a33f68051af5915bfbf7733dccc74cd86b8e49f5/images/cosmo2.png" width="700"></a>
